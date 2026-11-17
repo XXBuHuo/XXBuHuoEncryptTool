@@ -1,6 +1,6 @@
-# XXBuHuo EncryptTool 加密工具
+# XXBuHuo EncryptTool
 
-> 跨平台 · 高强度 · 原生桌面加密软件
+> 
 
 ![主界面](images/encrypt.png)
 
